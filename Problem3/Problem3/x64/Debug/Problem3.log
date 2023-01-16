@@ -1,0 +1,3 @@
+﻿  Problem3.cpp
+D:\Stuff\Code\C++\ProjectEuler\Problem3\Problem3\Problem3.cpp(56,32): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+  Problem3.vcxproj -> D:\Stuff\Code\C++\ProjectEuler\Problem3\x64\Debug\Problem3.exe

@@ -1,0 +1,4 @@
+﻿  Problem6.cpp
+D:\Stuff\Code\C++\ProjectEuler\Problem6\Problem6\Problem6.cpp(15,22): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Stuff\Code\C++\ProjectEuler\Problem6\Problem6\Problem6.cpp(18,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Problem6.vcxproj -> D:\Stuff\Code\C++\ProjectEuler\Problem6\x64\Debug\Problem6.exe
