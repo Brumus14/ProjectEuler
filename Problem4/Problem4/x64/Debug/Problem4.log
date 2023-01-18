@@ -1,5 +1,0 @@
-﻿  Problem4.cpp
-D:\Stuff\Code\C++\ProjectEuler\Problem4\Problem4\Problem4.cpp(11,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-D:\Stuff\Code\C++\ProjectEuler\Problem4\Problem4\Problem4.cpp(31,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-D:\Stuff\Code\C++\ProjectEuler\Problem4\Problem4\Problem4.cpp(32,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  Problem4.vcxproj -> D:\Stuff\Code\C++\ProjectEuler\Problem4\x64\Debug\Problem4.exe
